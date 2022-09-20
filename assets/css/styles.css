@@ -9,7 +9,7 @@ ul{
 }
 
 body {
-    background-image: url(./assets/imgs/bg.jpg);
+    background-image: url(../imgs/bg.jpg);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -125,7 +125,7 @@ main section:nth-child(3) {
     animation-delay: .8s;
 }
 
-
+/* ANIMAÇÕES */
 @keyframes fromTop {
     from {
         opacity: 0;
